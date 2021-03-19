@@ -3,11 +3,12 @@
   background: linear-gradient(#ff4c68,#bb8082);
 } */
 #title {
-  background-color: #ff4c68; */
+  background-color: #ff4c68;
 }
 #logo {
   font-family: "Ubuntu",sans-serif;
   font-size: 2.5rem;
+  padding: 0 0 3rem;
 }
 
 h1 {
@@ -18,7 +19,10 @@ h1 {
   color: white;
 }
 
-
+#navbarcollapser {
+  font-family: "Ubuntu",sans-serif;
+  
+}
 
 
 /*             fonts:
