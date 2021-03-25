@@ -31,6 +31,32 @@ h3{
   font-size: 2.5rem;
   padding: 0 0 3rem;
 }
+.container-fluid {
+
+  padding-bottom: 7%;
+
+}
+.title-buttons {
+  margin-bottom:  4rem;
+
+}
+.phone-image {
+  transform: rotate(25deg);
+
+  width: 300px;
+
+  padding-top: 0;
+
+  margin-bottom: -200px;
+
+  position: relative;
+
+  margin-left: 30%;
+
+
+
+
+}
 
 #navbarcollapser {
   font-family: "Ubuntu", sans-serif;
@@ -38,12 +64,20 @@ h3{
 
 /* Features CSS  */
  #features {
-   padding: 7% 15%;
+   position: relative;
+
+   text-align: center;
+
+   padding: 8% 15%;
+
+   z-index: 3;
+
+   background-color: white;
  }
 
 .feature-box {
   text-align: center;
-  padding: 5%
+  padding: 5%;
 }
 
 .icon {
@@ -70,6 +104,7 @@ h3{
   width: 10%;
   border-radius: 100%;
   margin: 20px;
+  z-index: -1;
 }
 .carousel-item {
   padding: 7% 15%;
