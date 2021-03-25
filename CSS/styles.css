@@ -91,6 +91,17 @@ h3{
 }
 
 
+/* Pricing section */
+ #pricing {
+   margin: 100px;
+
+ }
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+
 
 
 /*             fonts:
