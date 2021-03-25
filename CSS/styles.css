@@ -139,14 +139,24 @@ h3{
 /* CTA section  */
 
 #cta  {
-  padding: 4rem 0 0 0;
   background-color: #ff4c68;
 
 }
 
+.cta {
+  padding: 2rem 0 2rem 0;
+  margin: 100px 100px 0 100px;
+  text-align: center;
+
+}
+.cta-dl-button {
+  margin: 1.5rem;
+  text-align: left;
+}
 #footer {
   background-color: #ff4c68;
-  padding: 0 0 4rem 0;
+  padding: 4rem 7rem 1rem 0;
+  text-align: right;
 }
 
 
