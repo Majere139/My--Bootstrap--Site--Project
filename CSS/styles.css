@@ -136,7 +136,18 @@ h3{
   padding: 3% 2%;
 }
 
+/* CTA section  */
 
+#cta  {
+  padding: 4rem 0 0 0;
+  background-color: #ff4c68;
+
+}
+
+#footer {
+  background-color: #ff4c68;
+  padding: 0 0 4rem 0;
+}
 
 
 /*             fonts:
